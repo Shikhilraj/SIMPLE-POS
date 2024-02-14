@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0, 64, 119);
+}
+.container{
+    background-color: aqua;
+}
+#cart{
+    background-color: brown;
+    
+}
+#subtotal,#total{
+    font-size: 20px;
+
+}
+.invoice_details{
+    background-color: beige;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+#addproduct,#addcustomer,#Generate_invoice{
+    color: rgb(0, 38, 230);
+    font-size: 23px;
+    background-color: aquamarine;  
+    border-radius: 10px; 
+}
+#order{
+    font-size: 23px;
+    color: rgb(0, 38, 230);
+    background-color: aquamarine;  
+    border-radius: 10px; 
+}
+
+#invoice_table{
+    border: 5px;
+    text-align: center;
+    align-content: center;
+    border-bottom: rgb(0, 0, 0);
+}
+
